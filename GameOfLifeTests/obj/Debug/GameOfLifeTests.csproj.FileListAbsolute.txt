@@ -1,0 +1,5 @@
+C:\Users\tlescut\Work\Dev\GameOfLifeTests\GameOfLifeTests\bin\Debug\GameOfLifeTests.dll
+C:\Users\tlescut\Work\Dev\GameOfLifeTests\GameOfLifeTests\bin\Debug\GameOfLifeTests.pdb
+C:\Users\tlescut\Work\Dev\GameOfLifeTests\GameOfLifeTests\obj\Debug\GameOfLifeTests.csprojResolveAssemblyReference.cache
+C:\Users\tlescut\Work\Dev\GameOfLifeTests\GameOfLifeTests\obj\Debug\GameOfLifeTests.dll
+C:\Users\tlescut\Work\Dev\GameOfLifeTests\GameOfLifeTests\obj\Debug\GameOfLifeTests.pdb
